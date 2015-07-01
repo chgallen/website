@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: 
-
-Sitemap: http://chgallen.github.io/sitemap.xml 

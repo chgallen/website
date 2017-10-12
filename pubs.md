@@ -4,7 +4,7 @@ title: Publications
 permalink: /pubs/
 ---
 
-## Things wot I wrote:
+## By me
 
 ### Science
 
@@ -16,7 +16,7 @@ permalink: /pubs/
 * [Why protest matters](http://cambridge.tab.co.uk/2014/03/31/why-protest-matters/), The Tab Cambridge, 31 March 2014
 * [Undergraduates at King's](http://www.kings.cam.ac.uk/files/about/annual-report-2011.pdf), King's College 2011 Annual Report
 
-## Things wot I'm quoted in:
+## Quotes from me
 
 * [Red flag: Cambridge students vote to remove Soviet flag from their bar](http://www.independent.co.uk/student/news/red-flag-cambridge-students-vote-to-remove-soviet-flag-from-their-bar-9012274.html), The Independent, 18 December 2013
 * [Royal wedding: Cambridge students mark Duke's wedding by burning Union flag](http://www.telegraph.co.uk/news/uknews/royal-wedding/8486536/Royal-wedding-Cambridge-students-mark-Dukes-wedding-by-burning-Union-flag.html), The Telegraph, 2 May 2011

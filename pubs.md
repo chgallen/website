@@ -4,14 +4,18 @@ title: Publications
 permalink: /pubs/
 ---
 
-## By me
+## Science
 
-### Science
-
-* [Improving the Prediction of Toxicological Endpoints by Integrating Chemical, Biological and Phenotypic Data]({{ site.url }}/posters/2013-09_eco_poster.pdf), C.H.G. Allen, A. Koutsoukas, I. Cortes-Ciriano, D.S. Murrell, T.E. Malliavin, R.C. Glen and A. Bender, poster presented at the Conference in Environmental ChemOinformatics at Lake Chiemsee, 15-18 September 2013
+### Articles
+* [Improving the prediction of organism-level toxicity through integration of chemical, protein target and cytotoxicity qHTS data](http://pubs.rsc.org/en/content/articlelanding/2016/tx/c5tx00406c), C.H.G. Allen, A. Koutsoukas, I. Cortés-Ciriano, D.S. Murrell, T.E. Malliavin, R.C. Glen and  A. Bender, *Toxicol Res* 2016, **5**, 883-894
 * [International chemical identifier for reactions (RInChI)](http://www.jcheminf.com/content/5/1/45), G. Grethe, J.M. Goodman and C.H.G. Allen, *J. Cheminf.* 2013, **5**:45
 
-### Not science
+### Posters
+* [Improving the Prediction of Toxicological Endpoints by Integrating Chemical, Biological and Phenotypic Data]({{ site.url }}/posters/2013-09_eco_poster.pdf), C.H.G. Allen, A. Koutsoukas, I. Cortes-Ciriano, D.S. Murrell, T.E. Malliavin, R.C. Glen and A. Bender, poster presented at the Conference in Environmental ChemOinformatics at Lake Chiemsee, 15-18 September 2013
+
+## Not science
+
+### By me
 
 * [Why protest matters](http://cambridge.tab.co.uk/2014/03/31/why-protest-matters/), The Tab Cambridge, 31 March 2014
 * [Undergraduates at King's](http://www.kings.cam.ac.uk/files/about/annual-report-2011.pdf), King's College 2011 Annual Report

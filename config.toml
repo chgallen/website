@@ -1,5 +1,7 @@
 baseURL = "http://chgallen.com"
 languageCode = "en-us"
-title = "My New Hugo Site"
 theme = "cocoa"
 publishDir = "docs"
+
+author = "Chad H.G. Allen"
+title = "Chad H.G. Allen"

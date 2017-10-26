@@ -6,4 +6,6 @@ publishDir = "docs"
 author = "Chad H.G. Allen"
 title = "Chad H.G. Allen"
 
+description = "Don't panic"
+
 avatar = "img/profile.jpg"

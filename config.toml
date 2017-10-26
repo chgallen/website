@@ -35,7 +35,7 @@ identifier             = "code"
 url                    = "/code/"
 
 [params]
-latestpostscount       = 5                             # how many posts to display on the home page
+latestpostscount       = 0                             # how many posts to display on the home page
 i18n_flags             = false                         # whether to display small country flags for available translations
 author                 = "Chad H.G. Allen"
 cachebuster            = true                          # add the current unix timestamp in query string for cache busting css assets
@@ -44,14 +44,14 @@ dateformfull           = "Mon 2 Jan 2006 15:04:05 MST"
 description            = "A lazily-made holding site."
 email                  = "chad@chgallen.com"
 extracssfiles          = [ "/css/override.css" ]       # In your `static` directory, add/remove files as necessary.
-faviconfile            = "img/profile.jpg"
+# faviconfile          = "img/profile.jpg"
 github                 = "//github.com/chgallen"
 highlightjs            = true
 instagram              = "//instagram.com/chgallen90"
 lang                   = "en"
 linkedin               = "//linkedin.com/in/chgallen"
 noshowreadtime         = false                         # if true, don't show "<x> minutes read" in posts
-selfintro              = ""                            # appears in the site header when set to a non-empty string
+selfintro              = "My website"                            # appears in the site header when set to a non-empty string
 twitter                = "//twitter.com/chgallen"
 # mastodon             = "//example.com/@you"
 # highlightjslanguages = ["go"]                        # additional languages not included in the "common" set

@@ -10,7 +10,7 @@ draft: false
 * [International chemical identifier for reactions (RInChI)](http://www.jcheminf.com/content/5/1/45), G. Grethe, J.M. Goodman and C.H.G. Allen, *J. Cheminf.* 2013, **5**:45
 
 ## Posters
-* [Improving the Prediction of Toxicological Endpoints by Integrating Chemical, Biological and Phenotypic Data]({{< ref "posters/2013-09_eco_poster.pdf" >}}), C.H.G. Allen, A. Koutsoukas, I. Cortes-Ciriano, D.S. Murrell, T.E. Malliavin, R.C. Glen and A. Bender, poster presented at the Conference in Environmental ChemOinformatics at Lake Chiemsee, 15-18 September 2013
+* [Improving the Prediction of Toxicological Endpoints by Integrating Chemical, Biological and Phenotypic Data](/posters/2013-09_eco_poster.pdf), C.H.G. Allen, A. Koutsoukas, I. Cortes-Ciriano, D.S. Murrell, T.E. Malliavin, R.C. Glen and A. Bender, poster presented at the Conference in Environmental ChemOinformatics at Lake Chiemsee, 15-18 September 2013
 
 # Not science
 

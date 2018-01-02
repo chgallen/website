@@ -28,13 +28,6 @@ weight                 = -130
 identifier             = "blog"
 url                    = "/blog/"
 
-
-[[menu.main]]
-name                   = "CV"
-weight                 = -100
-identifier             = "CV"
-url                    = "docs/CV.pdf"
-
 [[menu.main]]
 name                   = "Publications"
 weight                 = -110
@@ -70,4 +63,3 @@ piwik				   = false                         # If true, Piwik integration is enab
 
 avatar                 = "img/profile.jpg" # path to image in static dir e.g img/avatar.png (do not use in the same time as gravatar)
 # gravatar             = ""                # gravatar hash. see https://en.gravatar.com/site/implement/hash/. do not use in the same time as avatar
-

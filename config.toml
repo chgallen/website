@@ -16,24 +16,6 @@ pluralizelisttitles = false
 [permalinks]
 blog  = "blog/:slug/"
 
-[[menu.main]]
-name                   = "About"
-weight                 = -140
-identifier             = "about"
-url                    = "/fixed/about/"
-
-[[menu.main]]
-name                   = "Blog"
-weight                 = -130
-identifier             = "blog"
-url                    = "/blog/"
-
-[[menu.main]]
-name                   = "Publications"
-weight                 = -110
-identifier             = "pubs"
-url                    = "/fixed/pubs/"
-
 [params]
 latestpostscount       = 0                             # how many posts to display on the home page
 i18n_flags             = false                         # whether to display small country flags for available translations
@@ -51,7 +33,7 @@ instagram              = "//instagram.com/chgallen90"
 lang                   = "en"
 linkedin               = "//linkedin.com/in/chgallen"
 noshowreadtime         = false                         # if true, don't show "<x> minutes read" in posts
-selfintro              = "Under construction"                            # appears in the site header when set to a non-empty string
+selfintro              = "Just a nothing website"                            # appears in the site header when set to a non-empty string
 twitter                = "//twitter.com/chgallen"
 # mastodon             = "//example.com/@you"
 # highlightjslanguages = ["go"]                        # additional languages not included in the "common" set

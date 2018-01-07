@@ -6,28 +6,9 @@
     <description>Recent content on Chad H.G. Allen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-UK</language>
-    <lastBuildDate>Thu, 26 Oct 2017 14:39:10 +0100</lastBuildDate>
     
 	<atom:link href="http://chgallen.com/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>About</title>
-      <link>http://chgallen.com/fixed/about/</link>
-      <pubDate>Thu, 26 Oct 2017 14:39:10 +0100</pubDate>
-      
-      <guid>http://chgallen.com/fixed/about/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Publications</title>
-      <link>http://chgallen.com/fixed/pubs/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://chgallen.com/fixed/pubs/</guid>
-      <description>Science Articles  Improving the prediction of organism-level toxicity through integration of chemical, protein target and cytotoxicity qHTS data, C.H.G. Allen, A. Koutsoukas, I. Cortés-Ciriano, D.S. Murrell, T.E. Malliavin, R.C. Glen and A. Bender, Toxicol Res 2016, 5, 883-894 International chemical identifier for reactions (RInChI), G. Grethe, J.M. Goodman and C.H.G. Allen, J. Cheminf. 2013, 5:45  Posters  Improving the Prediction of Toxicological Endpoints by Integrating Chemical, Biological and Phenotypic Data, C.</description>
-    </item>
     
   </channel>
 </rss>
